@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Government Services",
+        "link": "/govt",
+        "icon": "govt.png"
+    },
+    {
+        "id": 2,
+        "name": "Education Services",
+        "link": "/edu",
+        "icon": "education.png"
+    },
+    {
+        "id": 3,
+        "name": "Default Service",
+        "link": "/default",
+        "icon": "default.png"
+    }
+]
